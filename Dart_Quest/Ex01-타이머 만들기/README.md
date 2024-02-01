@@ -28,15 +28,16 @@
 - [v]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
     배운점과 아쉬운점, 느낀점 등이 상세히 기록되어 있는지 확인
-        - 딥러닝 모델의 경우,
-        인풋이 들어가 최종적으로 아웃풋이 나오기까지의 전체 흐름을 도식화하여 
-        모델 아키텍쳐에 대한 이해를 돕고 있는지 확인
+
+    ![image](https://github.com/NeatyNut/AIFFEL_Online_Quest/assets/89675001/9611bc3d-b499-4619-90e4-f1c675a65918)
+
 
 - [v]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 모듈화(함수화) 했는지
         - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
-![image](https://github.com/NeatyNut/AIFFEL_Online_Quest/assets/149549014/b6d13bcd-29db-4484-9b51-bf1ccf4dbb2e)
+
+    ![image](https://github.com/NeatyNut/AIFFEL_Online_Quest/assets/149549014/b6d13bcd-29db-4484-9b51-bf1ccf4dbb2e)
  
 # 참고 링크 및 코드 개선
 ```
