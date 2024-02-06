@@ -24,6 +24,7 @@
         - <img width="372" alt="image" src="https://github.com/choikanghoon/kimmingi-AIFFEL_Online_Quest/assets/149554171/af7f3973-e22d-4408-a109-444548f4ab2c">
 
         익스펜드에 대해서 이해가 잘 안갔는데, 같이 이야기를 나누면서 해결이 되었었다.
+      그리고 각각의 위젯에 대한 설명을 아주 잘 넣어주어서 보기 되게 좋았다.
 
 
 - []  **3. 에러가 난 부분을 디버깅하여 문제를 “해결한 기록을 남겼거나” 
@@ -49,6 +50,11 @@
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 모듈화(함수화) 했는지
         - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
+     
+        - <img width="262" alt="image" src="https://github.com/choikanghoon/kimmingi-AIFFEL_Online_Quest/assets/149554171/b15a3634-36b8-4439-8f05-c98b6dd807cd">
+
+        runApp(MyApp()); 함수로 main 출력을 매우 간결하게 만들었습니다.
+
  
 # 참고 링크 및 코드 개선
 ```
