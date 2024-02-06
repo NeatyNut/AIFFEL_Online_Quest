@@ -10,6 +10,10 @@
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 부분의 코드 및 결과물을 근거로 첨부
+     
+        - <img width="436" alt="image" src="https://github.com/choikanghoon/kimmingi-AIFFEL_Online_Quest/assets/149554171/127ceb62-3c5b-40de-bfcc-a6cb087cd24c">
+
+제일 어렵고 복잡했었던 버튼의 코드가 간결하게 잘 작성 되었습니다.
 
 - []  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -17,6 +21,11 @@
     - 해당 코드가 무슨 기능을 하는지, 왜 그렇게 짜여진건지, 작동 메커니즘이 뭔지 기술.
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
+        - <img width="372" alt="image" src="https://github.com/choikanghoon/kimmingi-AIFFEL_Online_Quest/assets/149554171/af7f3973-e22d-4408-a109-444548f4ab2c">
+
+        익스펜드에 대해서 이해가 잘 안갔는데, 같이 이야기를 나누면서 해결이 되었었다.
+      그리고 각각의 위젯에 대한 설명을 아주 잘 넣어주어서 보기 되게 좋았다.
+
 
 - []  **3. 에러가 난 부분을 디버깅하여 문제를 “해결한 기록을 남겼거나” 
 ”새로운 시도 또는 추가 실험을 수행”해봤나요?**
@@ -24,15 +33,28 @@
     - 문제에서 요구하는 조건에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
+     
+        - <img width="420" alt="image" src="https://github.com/choikanghoon/kimmingi-AIFFEL_Online_Quest/assets/149554171/ab30ee94-7d13-42ec-acbb-ac67eeb91108">
+
+        AppBar의 디자인요소, 음영도 넣어보고 하시는 시도, 그리고 저희는 AppBar만 그냥 넣었었는데 선을 넣은것도 좋았습니다.
+
 
 - []  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
     배운점과 아쉬운점, 느낀점 등이 상세히 기록되어 있는지 확인
 
+<img width="474" alt="image" src="https://github.com/choikanghoon/kimmingi-AIFFEL_Online_Quest/assets/149554171/a701fe74-8ea8-4422-acc1-8453fcd22bab">
+
+
 - []  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 모듈화(함수화) 했는지
         - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
+     
+        - <img width="262" alt="image" src="https://github.com/choikanghoon/kimmingi-AIFFEL_Online_Quest/assets/149554171/b15a3634-36b8-4439-8f05-c98b6dd807cd">
+
+        runApp(MyApp()); 함수로 main 출력을 매우 간결하게 만들었습니다.
+
  
 # 참고 링크 및 코드 개선
 ```
