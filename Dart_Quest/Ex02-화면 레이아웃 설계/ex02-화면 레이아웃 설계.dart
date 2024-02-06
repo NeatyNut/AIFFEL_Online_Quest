@@ -7,7 +7,6 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-
   @override
   // 화면 생성
   Widget build(BuildContext context) {
@@ -22,7 +21,8 @@ class MyApp extends StatelessWidget {
             // 메뉴 아이콘으로 지정
             icon: Icon(Icons.menu),
             // 버튼 클릭 시 동작 지정 - 현재 아무 동작 없음
-            onPressed: () {},),
+            onPressed: () {},
+          ),
           // 앱바 제목 지정
           title: Text('플러터 앱 만들기'),
           // 앱바 하단에 라인 생성
@@ -51,7 +51,6 @@ class TestScreen extends StatefulWidget {
 }
 
 class TestState extends State<TestScreen> {
-
   @override
   // 본문 화면 구현
   Widget build(BuildContext context) {
@@ -59,7 +58,9 @@ class TestState extends State<TestScreen> {
     return Column(
       children: [
         // 객체 간 간격 조정을 위한 빈 컨테이너 생성
-        Container(height: 180,),
+        Container(
+          height: 180,
+        ),
         // 객체 간 위치 조정을 위한 expanded 추가
         Expanded(
           // 객체가 차지할 비율 설정
@@ -88,8 +89,8 @@ class TestState extends State<TestScreen> {
                 ),
                 // 버튼 크기 지정
                 padding: MaterialStateProperty.all<EdgeInsetsGeometry>(
-                    EdgeInsets.only(top:15, left: 50.0, right: 50.0, bottom: 15)
-                ),
+                    EdgeInsets.only(
+                        top: 15, left: 50.0, right: 50.0, bottom: 15)),
               ),
             ),
           ),
@@ -102,15 +103,33 @@ class TestState extends State<TestScreen> {
             child: Stack(
               children: [
                 // 최하위부터 최상위 스택을 지정하고, 색으로 구분
-                Container(height: 300, width: 300, color: Colors.red,),
-                Container(height: 240, width: 240, color: Colors.orange,),
-                Container(height: 180, width: 180, color: Colors.yellow,),
-                Container(height: 120, width: 120, color: Colors.green,),
-                Container(height: 60, width: 60, color: Colors.blue,),
+                Container(
+                  height: 300,
+                  width: 300,
+                  color: Colors.red,
+                ),
+                Container(
+                  height: 240,
+                  width: 240,
+                  color: Colors.orange,
+                ),
+                Container(
+                  height: 180,
+                  width: 180,
+                  color: Colors.yellow,
+                ),
+                Container(
+                  height: 120,
+                  width: 120,
+                  color: Colors.green,
+                ),
+                Container(
+                  height: 60,
+                  width: 60,
+                  color: Colors.blue,
+                ),
               ],
-            )
-        )
-
+            ))
       ],
     );
   }
