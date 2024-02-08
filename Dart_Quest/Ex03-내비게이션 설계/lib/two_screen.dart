@@ -8,6 +8,7 @@ class TwoScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     IsCat isCat = ModalRoute.of(context)?.settings.arguments as IsCat;
+    print('뽀뽀:${isCat.is_cat}');
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
@@ -29,7 +30,6 @@ class TwoScreen extends StatelessWidget {
                   onPressed: () async {
                     // 변수를 변경해서 이전 화면으로 전달
                     isCat.is_cat = true;
-                    print('뽀뽀:${isCat.is_cat}');
                     Navigator.pop(context, isCat);
                     // final result = Navigator.pop(context, isCat);
                     // print('뽀뽀:$result');

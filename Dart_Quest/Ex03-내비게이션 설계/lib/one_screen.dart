@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'is_cat.dart';
 
 class OneScreen extends StatelessWidget {
@@ -29,7 +28,7 @@ class OneScreen extends StatelessWidget {
                     isCat.is_cat = false;
                     final result = await Navigator.pushNamed(context, '/two',
                         arguments: isCat);
-                    print('뽀뽀:${(result as IsCat).is_cat}'); // 되나요?
+                    print('뽀뽀:${(result as IsCat).is_cat}');
                   },
                   // 버튼 크기 조정
                   style: ElevatedButton.styleFrom(
