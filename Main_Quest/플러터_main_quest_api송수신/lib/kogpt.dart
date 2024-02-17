@@ -6,7 +6,7 @@ class Kogpt {
   double temperature = 1.0;
   double top_p = 0.7;
   int n = 1;
-  final REST_API_Key = "60944e2fb478274116d4cc2830de47e3"; // 발급api
+  final REST_API_Key = "발급 받은 API"; // 발급api
 
   // 생성자
   Kogpt(this.prompt);

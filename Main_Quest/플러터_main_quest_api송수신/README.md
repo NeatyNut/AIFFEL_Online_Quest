@@ -2,7 +2,8 @@
 
 - [Kogpt](https://developers.kakao.com/product/kogpt) Rest API 활용한 뉴스 요약 구현
 
-![영상](구현영상.webm)
+[구현영상.webm](https://github.com/NeatyNut/AIFFEL_Online_Quest/assets/89675001/7512db2e-acdf-4abc-a79f-e81b44837765)
+
 
 <br/>
 
