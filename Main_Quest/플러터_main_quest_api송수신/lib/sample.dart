@@ -31,8 +31,6 @@ class SampleState extends State<Sample> {
         "/fetch/https://api.kakaobrain.com/v1/inference/kogpt/generation");
     http.Response response = await http.post(url,
         headers: {
-          "cors":
-              '{"origin": ["https://xxxxxx.github.io", "http://localhost:52301"], methods: "GET,HEAD,PUT,PATCH,DELETE",}',
           "Authorization": "KakaoAK ${kogpt.REST_API_Key}",
           "Content-Type": "application/json",
         },
