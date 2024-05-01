@@ -43,9 +43,10 @@
 |DL3|Exp✨|Transformer|[대화형 챗봇](https://github.com/NeatyNut/AIFFEL_Online_Quest/blob/main/DL3/5.%20%5BDL3_Transformer%5D%20%EB%8C%80%ED%99%94%ED%98%95%20%EC%B1%97%EB%B4%87.ipynb)|O|
 |DL3|Exp✨|Stable diffusion, Pose estimation|[GPT+Stable diffusion+Pose estimation 이미지 생성](https://github.com/NeatyNut/AIFFEL_Online_Quest/blob/main/DL3/6.%20%5BDL3_ControlNet%5D%20GPT%2BStable%20diffusion%2BPose%20estimation%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%83%9D%EC%84%B1.ipynb)|O|
 |DL3|Exp✨|Keras Tuner|[모델 하이퍼파라미터 튜닝](https://github.com/NeatyNut/AIFFEL_Online_Quest/blob/main/DL3/7.%20%5BDL3_KerasTuner%5D%20%EB%AA%A8%EB%8D%B8%20%ED%95%98%EC%9D%B4%ED%8D%BC%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%20%ED%8A%9C%EB%8B%9D.ipynb)|O|
-|DLThon|3days Team Project|증강(객체 인식 활용), W&B, 전이학습(DenseNet, Xception)|[해파리 종 분류](https://github.com/NeatyNut/AIFFEL_Online_Quest/blob/main/DL_Thon/%5BDL_Thon%5D%20%ED%95%B4%ED%8C%8C%EB%A6%AC%20%EC%A2%85%20%EB%B6%84%EB%A5%98.ipynb)|acc:0.85→0.90|
+|DLThon|3days Team Project✨✨|증강(객체 인식 활용), W&B, 전이학습(DenseNet, Xception)|[해파리 종 분류](https://github.com/NeatyNut/AIFFEL_Online_Quest/blob/main/DL_Thon/%5BDL_Thon%5D%20%ED%95%B4%ED%8C%8C%EB%A6%AC%20%EC%A2%85%20%EB%B6%84%EB%A5%98.ipynb)|acc:0.85→0.90|
 |Dart|Q|Dart 기초|[타이머 만들기](https://github.com/NeatyNut/AIFFEL_Online_Quest/tree/main/Dart/Ex01-%ED%83%80%EC%9D%B4%EB%A8%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|O|
 |Dart|Q|Flutter 레이아웃|[화면 레이아웃 설계](https://github.com/NeatyNut/AIFFEL_Online_Quest/tree/main/Dart/Ex02-%ED%99%94%EB%A9%B4%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%20%EC%84%A4%EA%B3%84)|O|
 |Dart|Q|Flutter 네비게이션|[내비게이션 설계](https://github.com/NeatyNut/AIFFEL_Online_Quest/tree/main/Dart/Ex03-%EB%82%B4%EB%B9%84%EA%B2%8C%EC%9D%B4%EC%85%98%20%EC%84%A4%EA%B3%84)|O|
 |Dart|Q|ngrok, FastAPI|[api 오픈](https://github.com/NeatyNut/AIFFEL_Online_Quest/tree/main/Dart/Ex04-api%EC%98%A4%ED%94%88)|O|
 |Dart|Main_Project✨|개인주제_Kogpt API|[api송수신](https://github.com/NeatyNut/AIFFEL_Online_Quest/tree/main/Dart/%E2%98%85Main_Quest-api%EC%86%A1%EC%88%98%EC%8B%A0)|O|
+|AI APP|Last Team Project|개인주제_Clip & RAG|[이미지 사전 & 동화책 퀴즈 생성기](https://github.com/NeatyNut/AI_Kids_Dictionary_KOR)|O|
