@@ -13,7 +13,7 @@
 |DL_Thon|해파리 종 분류, 3일 팀프로젝트(팀장)|
 |Dart|Flutter 기본|
 
-## 📌목차
+## 📌퀘스트 수행 내역
 - Q : 페어 코딩 퀘스트(2인 이상)
 - Node10 : 교육자료를 토대로 수행하는 퀘스트(self with document)
 - Main : 과업만 주어진 채 알아서 수행하는 퀘스트(self)✨
@@ -53,7 +53,7 @@
 |Dart|Main✨|개인주제_Kogpt API|[api송수신](https://github.com/NeatyNut/AIFFEL_Online_Quest/tree/main/Dart/%E2%98%85Main_Quest-api%EC%86%A1%EC%88%98%EC%8B%A0)|O|
 |AI APP|LTP✨✨✨|개인주제_Clip & RAG|[이미지 사전 & 동화책 퀴즈 생성기](https://github.com/NeatyNut/AI_Kids_Dictionary_KOR)|O|
 
-## 📌관련 블로깅
+## 📌 블로깅 이력
 ### 교육과정 관련
 |구분|내용|
 |---|---|
