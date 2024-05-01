@@ -29,7 +29,6 @@
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부  
           
-     ![image](https://github.com/whtnals135/AIFFEL_Online_Quest_minki/assets/149548856/6935d24a-1716-4240-a476-fd63ac6c9ad7)
 
     
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
@@ -39,7 +38,6 @@
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
         - 
-![image](https://github.com/whtnals135/AIFFEL_Online_Quest_minki/assets/149548856/420a7620-1e72-4ac3-a873-cfe25a318629)
 - **조수민: 주석으로 표시를 해두었기 때문에 이해가 잘 되었다.**
 
         
@@ -50,7 +48,6 @@
     실험이 기록되어 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.  
 
-![image](https://github.com/whtnals135/AIFFEL_Online_Quest_minki/assets/149548856/7fbfe506-34c2-473f-ac2d-78c8bbeb53ae)
 
 
 - [x]  **4. 회고를 잘 작성했나요?**
@@ -59,7 +56,6 @@
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.  
 
-![image](https://github.com/whtnals135/AIFFEL_Online_Quest_minki/assets/149548856/3001a589-8a3e-4143-bdca-2cd4f001afc8)
 
         
 - [x]  **5. 코드가 간결하고 효율적인가요?**
@@ -68,7 +64,6 @@
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화했는지
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.  
 
-![image](https://github.com/whtnals135/AIFFEL_Online_Quest_minki/assets/149548856/eabf5a48-0d3a-4af7-b27a-bd8c11bf971c)
 
 - **조수민: 전체적으로 깔끔하고 한 눈에 들어오는 간결한 코드이다.**
 
