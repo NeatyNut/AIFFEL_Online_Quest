@@ -1,4 +1,10 @@
 # 아이펠 교육과정 정리
+- 홈페이지 : [바로가기](https://www.aiffel.io/#main)
+- 주관사 : [모두의 연구소](https://modulabs.co.kr/)
+  
+![image](https://github.com/NeatyNut/AIFFEL_Online_Quest/assets/89675001/df7d6ed6-59b7-4a7d-a882-de7b22e41f3b)
+
+
 ## 📌설명
 2023.10.30 ~ 2024.04.17간 모두의 연구소 주관 AI학교 아이펠에서 수행한 퀘스트 목록들입니다. 강사가 없는 과정이기에 단순히 코드를 따라한다기보다 직접 이해하며 따라갈 수 있었습니다.
 
