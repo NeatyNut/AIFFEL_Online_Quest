@@ -114,5 +114,8 @@
 
 - 졸업 후 다시 정리해보는 과정에서 까먹은 것도 많다는 것을 깨달을 수 있었고, 추가적인 개인 프로젝트를 실시하여 다양한 기술을 배우고 실질적으로 문제를 해결하는데 사용하고 싶다. 고생했다.!
 
-![Untitled](https://github.com/NeatyNut/AIFFEL_Online_Quest/assets/89675001/7df6f936-b1ed-4881-aa4a-fe6d33faae79)
+<br/>
+
+＜롤링페이퍼 ： 팀원들의 평가＞
+  ![Untitled](https://github.com/NeatyNut/AIFFEL_Online_Quest/assets/89675001/7df6f936-b1ed-4881-aa4a-fe6d33faae79)
 
