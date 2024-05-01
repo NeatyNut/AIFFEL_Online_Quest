@@ -9,7 +9,6 @@
 
 - [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
 
-     ![image](https://github.com/YounghyeonK/AIFFEL_Online_Quest3/assets/149550120/20388563-e187-4ca4-929d-66f09d654a72)
 
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
@@ -18,7 +17,6 @@
     
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?** 
-    ![image](https://github.com/YounghyeonK/AIFFEL_Online_Quest3/assets/149550120/25fb07a8-4bfc-4994-a0bf-32ccded777c2)
 
     주석이 작성된 게 있었으나, 더 있었으면 좋았을 것 같다.
 
@@ -30,7 +28,6 @@
 - [x]  **3. 에러가 난 부분을 디버깅하여 문제를 “해결한 기록을 남겼거나” 
 ”새로운 시도 또는 추가 실험을 수행”해봤나요?**
 
-    ![image](https://github.com/YounghyeonK/AIFFEL_Online_Quest3/assets/149550120/8cd5efeb-7161-4ccb-b3b4-6abc77c09c33)
 
     - 문제 원인 및 해결 과정을 잘 기록하였는지 확인 또는
     - 문제에서 요구하는 조건에 더해 추가적으로 수행한 나만의 시도, 
@@ -47,8 +44,6 @@
         모델 아키텍쳐에 대한 이해를 돕고 있는지 확인
 
 - [x]  **5. 코드가 간결하고 효율적인가요?**
-      ![image](https://github.com/YounghyeonK/AIFFEL_Online_Quest3/assets/149550120/d13fab78-5f89-4424-8361-1312e5a1be79)
-      ![image](https://github.com/YounghyeonK/AIFFEL_Online_Quest3/assets/149550120/6c75f2fc-5a12-457a-9927-640b1ff6efb1)
 
 
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
